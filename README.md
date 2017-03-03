@@ -2,6 +2,10 @@
 
 > calendar component for vue2.0
 
+<p>
+    <img height="18" src="https://img.shields.io/badge/npm-v0.0.1-blue.svg">
+</p>
+
 ## Build Setup
 
 ``` bash
@@ -13,6 +17,7 @@ npm run dev
 
 # build for production with minification
 npm run build
+```
 
 ## DEMO
 
