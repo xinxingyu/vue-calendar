@@ -4,6 +4,10 @@
   "description": "calendar component of vue2.0",
   "author": "xinxingyu",
   "private": true,
+  "repository": {
+	"type": "git",
+	"url": "git+https://github.com/xinxingyu/vue-calendar"
+  },
   "scripts": {
     "dev": "node build/dev-server.js",
     "build": "node build/build.js",
