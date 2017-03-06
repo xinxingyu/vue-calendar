@@ -10,7 +10,7 @@
 ### 展示
 <p>
 	<img width="300px" src="https://github.com/xinxingyu/vue-calendar/blob/master/static/img/calendar1.jpg">
-	<img width="300px" style="margin-left:20px;" src="https://github.com/xinxingyu/vue-calendar/blob/master/static/img/calendar1.jpg">
+	<img width="300px" style="margin-left:20px;" src="https://github.com/xinxingyu/vue-calendar/blob/master/static/img/calendar2.jpg">
 	<img width="300px" src="https://github.com/xinxingyu/vue-calendar/blob/master/static/img/calendar3.jpg">
 	<img width="300px" style="margin-left:20px;" src="https://github.com/xinxingyu/vue-calendar/blob/master/static/img/calendar4.jpg">
 <p>
