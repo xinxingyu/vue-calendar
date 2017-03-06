@@ -1,10 +1,20 @@
 # calendar
+<p>
+    <img height="18" src="https://img.shields.io/badge/vue-v2.1.10-green.svg">
+    <img height="18" src="https://img.shields.io/badge/npm-v0.0.1-blue.svg">
+</p>
 
 > calendar component for vue2.0
 
+
+### 展示
 <p>
-    <img height="18" src="https://img.shields.io/badge/npm-v0.0.1-blue.svg">
-</p>
+	<img width="300px" src="https://github.com/xinxingyu/vue-calendar/blob/master/static/img/calendar1.jpg">
+	<img width="300px" style="margin-left:20px;" src="https://github.com/xinxingyu/vue-calendar/blob/master/static/img/calendar1.jpg">
+	<img width="300px" src="https://github.com/xinxingyu/vue-calendar/blob/master/static/img/calendar3.jpg">
+	<img width="300px" style="margin-left:20px;" src="https://github.com/xinxingyu/vue-calendar/blob/master/static/img/calendar4.jpg">
+<p>
+
 
 ## Build Setup
 

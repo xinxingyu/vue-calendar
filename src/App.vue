@@ -58,8 +58,8 @@
 </template>
 
 <script>
-// import calendar from 'components/calendar'
-import calendar from '../lib/components/calendar'
+import calendar from 'components/calendar'
+// import calendar from '../lib/components/calendar'
 
 export default {
 	components: {
